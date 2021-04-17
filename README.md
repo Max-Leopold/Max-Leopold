@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi, I'm Max 👋
 
+I like to build cool shit. 
+Currelty I'm doing this at [Brandwatch](https://www.brandwatch.com/) where we built software to analyze and make sense of tens of millions of social media posts.
+
+When I'm not sitting in front of my computer I love to go cycling 🚲 or do weird flips on a wood plank with wheels 🛹.
+
+I love to connect with new people so please reach out to me on [LinkedIn](https://www.linkedin.com/in/maximilian-leopold/)
 <!--
 **Max-Leopold/Max-Leopold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
