@@ -1,7 +1,7 @@
 ### Hi, I'm Max 👋
 
 I like to build cool shit. 
-Currelty I'm doing this at [Brandwatch](https://www.brandwatch.com/) where we built software to analyze and make sense of tens of millions of social media posts.
+Currelty I'm doing this at [Shopify](https://www.shopify.com/) where we make commerce better for everyone.
 
 When I'm not sitting in front of my computer I love to go cycling 🚲 or do weird flips on a wood plank with wheels 🛹.
 
